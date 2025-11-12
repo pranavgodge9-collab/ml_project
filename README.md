@@ -2,10 +2,10 @@
 Customer Churn Prediction Machine Learning Project
 Customer Churn Prediction - Telecom Industry
 
-Overview
+Overview :
 This repository contains the codebase for a machine learning project aimed at predicting customer churn within the telecom industry. The project uses data-driven analysis and predictive modeling to identify customers who are likely to discontinue their service. By understanding the key factors influencing churn, this model helps telecom providers reduce customer loss and improve overall retention strategies.
 
-Objective
+Objective:
 The goal of this project is to build a robust, interpretable model capable of forecasting whether a customer will churn based on various demographic, service usage, and account-related factors. The predictive insights can assist in proactive retention campaigns and strategic business decisions.
 
 Key Features
@@ -54,7 +54,7 @@ churn-prediction/
 
 How to Use the Code
 1. Clone this Repository
-   git clone https://github.com/yourusername/churn-prediction.git
+   git clone https://github.com/pranavgodge9-collab/ml_project.git
    cd churn-prediction
    
 2. Install Dependencies
